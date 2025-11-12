@@ -1,16 +1,16 @@
-## Hi there, I'm Will 👋
+# Hi there, I'm William Watts 👋
 
-<!--
-**wwatts-dev/wwatts-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+## Tools & Platforms
+* Git
+* GitHub
+* Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## Programming Languages-->
+
+## GitHub Stats:
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwatts-dev&layout=donut-vertical&theme=github_dark)](https://github.com/wwatts-dev/github-readme-stats)
+
