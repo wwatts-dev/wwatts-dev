@@ -5,6 +5,8 @@
 ![Version](https://img.shields.io/badge/version-18.2.0-blue?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Downloads](https://img.shields.io/badge/downloads-1M+-orange?style=flat)
+
+![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
 -->
 
 <h3>Welcome to my GitHub profile!</h3>
