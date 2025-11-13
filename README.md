@@ -50,6 +50,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## ⚡ GitHub Stats:
+![William's GitHub stats](https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github)
+
+## ⚡ Language Breakdown:
+![Top Langs](https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&layout=donut-vertical&theme=github_dark&exclude_repo=github-readme-stats-custom)
+
 <!--
 FORMATTING TEMPLATE FOR IMAGES:
   ![image]({BadgeURLHere})      #Note: Without the {}
@@ -64,8 +70,22 @@ FORMATTING TEMPLATE FOR IMAGES:
   5: for-the-badge
 -->
 
+<!-- Quick Tip (Align The Cards)
 ## ⚡ GitHub Stats:
-![William's GitHub stats](https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github)
+<a href="https://github.com/wwatts-dev/github-readme-stats">
+  <img height=450 align="top" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github" />
+</a>
+<a href="https://github.com/wwatts-dev/convoychat">
+  <img height=800 align="center" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&layout=donut-vertical&theme=github_dark&exclude_repo=github-readme-stats-custom" />
+</a>
+-->
 
-![Top Langs](https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&layout=donut-vertical&theme=github_dark&exclude_repo=github-readme-stats-custom)
-
+<!-- Pinning Repositories
+## TITLE
+<a href="https://github.com/wwatts-dev/NameOfRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/wwatts-dev/NameOfRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
