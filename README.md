@@ -55,10 +55,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ## ⚡ GitHub Stats:
-![William's GitHub stats](https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github)
-
-## ⚡ Repo Breakdown:
-![Top Langs](https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&layout=donut-vertical&theme=github_dark&exclude_repo=github-readme-stats-custom)
+<a href="https://github.com/wwatts-dev/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github" />
+</a>
+<a href="https://github.com/wwatts-dev/convoychat">
+  <img height=195 align="top" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
+</a>
 
 <!--
 FORMATTING TEMPLATE FOR IMAGES:
