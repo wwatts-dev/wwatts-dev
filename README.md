@@ -5,6 +5,36 @@
 
 ## Contributions
 
+### 🧠 Resources
+| Topic | Description |
+| --- | --- |
+| URL Button |  |
+| URL Button |  |
+| URL Button |  |
+| URL Button |  |
+| URL Button |  |
+
+<details>
+  <summary><h3>🧠 Resources</h3></summary>
+  <div>
+    <h4>Category 1</h4>
+      <ul>
+        <li><h4>Resource 1</h4></li>
+        <li><h4>Resource 2</h4></li>
+      </ul>
+    <ul>
+      <h4>Category 2</h4>
+        <li><h4>Resource 1</h4></li>
+        <li><h4>Resource 2</h4></li>
+    </ul>
+    <ul>
+      <h4>Category 3</h4>
+        <li><h4>Resource 1</h4></li>
+        <li><h4>Resource 2</h4></li>
+    </ul>
+  </div>
+</details>
+
 <details open>
   <summary><h3>💻 Tech Skills</h3></summary>
   <div>
