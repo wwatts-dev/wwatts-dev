@@ -54,6 +54,14 @@
 FORMATTING TEMPLATE FOR IMAGES:
   ![image]({BadgeURLHere})      #Note: Without the {}
   <img src="{BadgeURLHere}" />  #Note: Without the {}
+
+  SET &style=
+     to 1 of 5 styles (plastic, flat, etc.) Shields.io offers for any badge (see below):
+  1: plastic
+  2: flat-square
+  3: flat
+  4: social
+  5: for-the-badge
 -->
 
 ## ⚡ GitHub Stats:
