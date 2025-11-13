@@ -1,9 +1,9 @@
 # Hi there, I'm William Watts 👋
 ### Welcome to my GitHub profile!
 
-## Projects
+## 💡 Projects
 
-## Contributions
+## 📚 Contributions
 
 ### 🧠 Resources
 | Topic | Description |
@@ -102,7 +102,7 @@
 </details>
 
 <details>
-  <summary><h3>⚡ GitHub Stats</h3></summary>
+  <summary><h3>📊 GitHub Stats</h3></summary>
   <div>
     <a href="https://github.com/wwatts-dev/github-readme-stats">
       <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
@@ -111,6 +111,10 @@
       <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
     </a>
   </div>
+</details>
+
+<details>
+  <summary><h3>⚡ Recent Activity</h3></summary>
 </details>
 
 <!--
