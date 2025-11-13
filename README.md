@@ -7,6 +7,9 @@
 ![Downloads](https://img.shields.io/badge/downloads-1M+-orange?style=flat)
 
 ![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
+
+<!-- PROFILE VIEWS BADGE
+![](https://komarev.com/ghpvc/?username=wwatts-dev)
 -->
 
 <h3>Welcome to my GitHub profile!</h3>
@@ -26,6 +29,9 @@
 
 <details>
   <summary><h3>⚡ Recent Activity</h3></summary>
+  <div>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=wwatts-dev" /></a>
+  </div>
 </details>
 
 ## 💡 Projects
