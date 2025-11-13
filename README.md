@@ -23,45 +23,6 @@
 
 ## 📚 Contributions
 
-### 🧠 Resources (Gist?)
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-
-<details>
-  <summary><h3>🧠 Resources</h3></summary>
-  <div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
-    <h3>Column 1</h3>
-    <ul>
-      <li>List item 1</li>
-      <li>List item 2</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <h3>Column 2</h3>
-    <p>Some text content here for the second column.</p>
-  </div>
-</div>
-</details>
-
 <details open>
   <summary><h3>💻 Tech Skills</h3></summary>
   <div>
@@ -118,6 +79,45 @@
     <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
   </div>
 </details>
+
+<details>
+  <summary><h3>🧠 Resources</h3></summary>
+  <div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <h3>Column 1</h3>
+    <ul>
+      <li>List item 1</li>
+      <li>List item 2</li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <h3>Column 2</h3>
+    <p>Some text content here for the second column.</p>
+  </div>
+</div>
+</details>
+
+### 🧠 Resources (Gist?)
+| Topic | Description |
+| --- | --- |
+|  |  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
+
+| Topic | Description |
+| --- | --- |
+|  |  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
+
+| Topic | Description |
+| --- | --- |
+|  |  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
+| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
 
 <!--
 FORMATTING TEMPLATE FOR IMAGES:
