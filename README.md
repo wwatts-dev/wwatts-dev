@@ -2,6 +2,8 @@
 
 ## Projects
 
+## Contributions
+
 ## Tools & Platforms
 * Git
 * GitHub
