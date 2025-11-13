@@ -1,11 +1,29 @@
 # Hi there, I'm William Watts 👋
-### Welcome to my GitHub profile!
+
+<h3>Welcome to my GitHub profile!</h3>
+<div></div>
+
+<details>
+  <summary><h3>📈 GitHub Stats</h3></summary>
+  <div>
+    <a href="https://github.com/wwatts-dev/github-readme-stats">
+      <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
+    </a>
+    <a href="https://github.com/wwatts-dev/convoychat">
+      <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><h3>⚡ Recent Activity</h3></summary>
+</details>
 
 ## 💡 Projects
 
 ## 📚 Contributions
 
-### 🧠 Resources
+### 🧠 Resources (Gist?)
 | Topic | Description |
 | --- | --- |
 |  |  |
@@ -99,22 +117,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
   </div>
-</details>
-
-<details>
-  <summary><h3>📊 GitHub Stats</h3></summary>
-  <div>
-    <a href="https://github.com/wwatts-dev/github-readme-stats">
-      <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
-    </a>
-    <a href="https://github.com/wwatts-dev/convoychat">
-      <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
-    </a>
-  </div>
-</details>
-
-<details>
-  <summary><h3>⚡ Recent Activity</h3></summary>
 </details>
 
 <!--
