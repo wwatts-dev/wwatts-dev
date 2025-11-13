@@ -36,7 +36,7 @@
 
 ## Frameworks, Platforms and Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
+![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
