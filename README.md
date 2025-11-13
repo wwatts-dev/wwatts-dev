@@ -1,5 +1,12 @@
 # Hi there, I'm William Watts 👋
 
+<!-- FORMATTING TEMPLATE EXAMPLE FOR POPULAR OPEN SOURCE PROJECTS
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat)
+![Version](https://img.shields.io/badge/version-18.2.0-blue?style=flat)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Downloads](https://img.shields.io/badge/downloads-1M+-orange?style=flat)
+-->
+
 <h3>Welcome to my GitHub profile!</h3>
 <div></div>
 
@@ -120,7 +127,7 @@
 | `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
 
 <!--
-FORMATTING TEMPLATE FOR IMAGES:
+FORMATTING TEMPLATE FOR BADGE IMAGES:
   ![image]({BadgeURLHere})      #Note: Without the {}
   <img src="{BadgeURLHere}" />  #Note: Without the {}
 
