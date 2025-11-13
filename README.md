@@ -55,7 +55,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 <details open>
-  <summary><h2>💻 Tech Skills</h2></summary>
+  <summary><h3>💻 Tech Skills</h3></summary>
   <div>
     <h4>Version Control:</h4>
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></a>
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary><h2>⚡ GitHub Stats</h2></summary>
+  <summary><h3>⚡ GitHub Stats</h3></summary>
   <p>
     <a href="https://github.com/wwatts-dev/github-readme-stats">
       <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
