@@ -56,10 +56,10 @@
 
 ## ⚡ GitHub Stats:
 <a href="https://github.com/wwatts-dev/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
+  <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
 </a>
 <a href="https://github.com/wwatts-dev/convoychat">
-  <img height=220 align="top" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
+  <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
 </a>
 
 <!--
