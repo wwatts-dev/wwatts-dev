@@ -13,26 +13,40 @@
 -->
 
 <h3>Welcome to my GitHub profile!</h3>
-<div></div>
+<div>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=wwatts-dev" /></a>
+</div>
 
-<details>
-  <summary><h3>📈 GitHub Stats</h3></summary>
+##
+
+<details open>
+  <summary><h3>📊 Developer Analytics (expand to view)</h3></summary>
   <div>
-    <a href="https://github.com/wwatts-dev/github-readme-stats">
-      <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
-    </a>
-    <a href="https://github.com/wwatts-dev/convoychat">
-      <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
-    </a>
+  
+  <details>
+    <summary>⚡ Recent Activity</summary>
+    <div>
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
+    </div>
+  </details>
+  
+  <details>
+    <summary>📈 GitHub Stats</summary>
+    <div>
+      <a href="https://github.com/wwatts-dev/github-readme-stats">
+        <img align="center" style="width:520px;height:275px" src="https://github-readme-stats-custom-alpha.vercel.app/api?username=wwatts-dev&include_all_commits=true&show_icons=true&theme=github_dark&rank_icon=github&show=reviews" />
+      </a>
+      <a href="https://github.com/wwatts-dev/convoychat">
+        <img align="center" style="width:300px;height:300px" src="https://github-readme-stats-custom-alpha.vercel.app/api/top-langs/?username=wwatts-dev&theme=github_dark&exclude_repo=github-readme-stats-custom&stats_format=bytes&custom_title=Most+Used+Languages+(in+Bytes)&langs_count=4" />
+      </a>
+    </div>
+  </details>
+    
   </div>
 </details>
 
-<details>
-  <summary><h3>⚡ Recent Activity</h3></summary>
-  <div>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=wwatts-dev" /></a>
-  </div>
-</details>
+<hr>
 
 ## 💡 Projects
 
@@ -58,13 +72,6 @@
     <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" /></a>
   </div>
   <div>
-    <h4>Hosting/SaaS:</h4>
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
-  </div>
-  <div>
     <h4>Databases:</h4>
     <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" /></a>
@@ -84,6 +91,13 @@
     <a href="#"><img src="https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3" /></a>
   </div>
   <div>
+    <h4>Hosting/SaaS:</h4>
+    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
+  </div>
+  <div>
     <h4>Game Engines:</h4>
     <a href="#"><img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" /></a>
@@ -94,6 +108,8 @@
     <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
   </div>
 </details>
+
+<hr>
 
 <details>
   <summary><h3>🧠 Resources</h3></summary>
