@@ -14,6 +14,12 @@
 
 <h3>Welcome to my GitHub profile!</h3>
 <div>
+  <!--
+  <a href="#"><img width="212" height="512" alt="image" src="https://github.com/user-attachments/assets/b9e9d119-5d05-458b-851e-41b949bcc004" /></a>
+  <a href="#"><img width="212" height="512" alt="image" src="https://github.com/user-attachments/assets/cc2c5d44-d93c-4f68-a129-6456e587bfa2" /></a>
+  <br>
+  <br>
+  -->
   <a href="#"><img src="https://komarev.com/ghpvc/?username=wwatts-dev" /></a>
 </div>
 
@@ -21,6 +27,7 @@
 
 <details open>
     <summary><h3>📊 Developer Analytics</h3> <h6>(expand each below to view)</h6></summary>
+  
   <details>
     <summary>⚡ Recent Activity</summary>
     <div>
