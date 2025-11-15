@@ -20,9 +20,7 @@
 ##
 
 <details open>
-  <summary><h3>📊 Developer Analytics (expand to view)</h3></summary>
-  <div>
-  
+    <summary><h3>📊 Developer Analytics</h3> <h6>(expand each below to view)</h6></summary>
   <details>
     <summary>⚡ Recent Activity</summary>
     <div>
