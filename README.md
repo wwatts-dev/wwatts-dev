@@ -84,7 +84,7 @@
   </div>
   <div>
     <h4>Databases:</h4>
-    <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" /></a>
+    <!-- <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" /></a> -->
     <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" /></a>
   </div>
@@ -95,15 +95,15 @@
   <div>
     <h4>Frameworks, Platforms and Libraries:</h4>
     <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Databricks-181825?logo=databricks" /></a>
+    <!-- <a href="#"><img src="https://img.shields.io/badge/Databricks-181825?logo=databricks" /></a> -->
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" /></a>
+    <!-- <a href="#"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" /></a> -->
     <a href="#"><img src="https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3" /></a>
   </div>
   <div>
     <h4>Hosting/SaaS:</h4>
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" /></a>
+    <!-- <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" /></a> -->
     <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
