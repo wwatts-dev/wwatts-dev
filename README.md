@@ -67,12 +67,15 @@
   <summary><h3>💻 Tech Skills</h3></summary>
   <div>
     <h4>Programming Languages:</h4>
-    <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" (#)/></a>
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" (#)/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" (#)/></a>
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" (#)/></a>
-    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" (#)/></a>
-    <a href="#"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" (#)/></a>
+    <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a>
+    <picture>
+      <img src=https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white>
+    </picture>
+    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
+    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" /></a>
   </div>
   <div>
     <h4>IDEs/Editors:</h4>
