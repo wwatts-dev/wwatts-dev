@@ -38,6 +38,7 @@
     <summary>⚡ Recent Activity</summary>
     <div>
       <!--START_SECTION:waka-->
+      <h6>* Stay-tuned to see real-time automated updates here that will pull from my WakaTime developer metrics!</h6>
       <!--END_SECTION:waka-->
     </div>
   </details>
@@ -137,45 +138,6 @@
 </details>
 
 <hr>
-
-<details>
-  <summary><h3>🧠 Resources</h3></summary>
-  <div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
-    <h3>Column 1</h3>
-    <ul>
-      <li>List item 1</li>
-      <li>List item 2</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <h3>Column 2</h3>
-    <p>Some text content here for the second column.</p>
-  </div>
-</div>
-</details>
-
-### 🧠 Resources (Gist?)
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-
-| Topic | Description |
-| --- | --- |
-|  |  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords  |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
-| `URL Button` | WordsWordsWordsWordsWordsWordsWordsWordsWordsWords |
 
 <!--
 FORMATTING TEMPLATE FOR BADGE IMAGES:
