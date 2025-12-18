@@ -1,9 +1,0 @@
-# Settings for the Recent Activity Display
-settings:
-  title: "Recent Activity"
-  layout: "list"
-  limit: 5
-  # Set this to true to see your private repo activity
-  show_private: true
-  # These are the markers the action looks for in your README.md
-  readme_section: "recent-activity"
