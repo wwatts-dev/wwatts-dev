@@ -49,6 +49,7 @@
 <li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/f60c851237fef491e37faa7c0ec3311991b674d2">wwatts-dev/wwatts-dev</a></li>
 </ol>
 <!--END_SECTION:activity-->
+      *Last updated: {{DATE}}*
     </div>
   </details>
   
