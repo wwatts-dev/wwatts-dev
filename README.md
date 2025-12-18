@@ -27,6 +27,7 @@
   <br>
   -->
   <a href="#"><img src="https://komarev.com/ghpvc/?username=wwatts-dev" /></a>
+  <a href="https://wakatime.com/@35b84232-eb76-4697-9225-c8d31c2df2af"><img src="https://wakatime.com/badge/user/35b84232-eb76-4697-9225-c8d31c2df2af.svg" alt="Total time coded since Nov 13 2025" /></a>
 </div>
 
 ##
