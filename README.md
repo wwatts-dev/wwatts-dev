@@ -38,8 +38,8 @@
   <details>
     <summary>⚡ Recent Activity</summary>
     <div>
-      <h6>* Stay-tuned to see real-time automated updates here that will pull from my WakaTime developer metrics!</h6>
       <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=35b84232-eb76-4697-9225-c8d31c2df2af)](https://github.com/anuraghazra/github-readme-stats)-->
+      <br>
       <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/c4de5e9a509212ea879c6c910b5ce401355a8054">wwatts-dev/wwatts-dev</a></li>
@@ -49,7 +49,7 @@
 <li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/f60c851237fef491e37faa7c0ec3311991b674d2">wwatts-dev/wwatts-dev</a></li>
 </ol>
 <!--END_SECTION:activity-->
-      *Last updated: {{DATE}}*
+      <h6>*Last updated: {{DATE}}*</h6>
     </div>
   </details>
   
