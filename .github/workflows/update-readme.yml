@@ -13,5 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Readme-Workflows/recent-activity@v2.1.0 # Use the specific action
+        with:
+          GH_USERNAME: wwatts-dev
+          # This tells the action exactly where to find your settings file
+          CONFIG_FILE: ./.github/recent-activity.config.yml
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
