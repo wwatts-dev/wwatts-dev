@@ -22,8 +22,8 @@ jobs:
           HIDE_DETAILS_ON_PRIVATE_REPOS: true   # Show that you worked on a private repo but not show the commit message or repo name (for ultimate privacy)
           IGNORE_EVENTS: "WatchEvent, FollowEvent, ForkEvent"  # Hides stars/follows/forking to keep it focused on coding
           ## Optional "Administrative" Events (Can be spammy):
-          # CreateEvent: Whenever you create a new branch or a new repository. (If you create many feature branches, this might push your actual commits off the list).
-          # DeleteEvent: Whenever you delete a branch after merging it.
-          # GollumEvent: This is GitHub's name for Wiki updates. If you edit a project’s Wiki, it shows up here.
-          # MemberEvent: If you are added as a collaborator to someone else's repository.
+            # CreateEvent: Whenever you create a new branch or a new repository. (If you create many feature branches, this might push your actual commits off the list).
+            # DeleteEvent: Whenever you delete a branch after merging it.
+            # GollumEvent: This is GitHub's name for Wiki updates. If you edit a project’s Wiki, it shows up here.
+            # MemberEvent: If you are added as a collaborator to someone else's repository.
           COMMIT_MESSAGE: "Update activity log: {{DATE}}" # Adds the timestamp to the footer of the activity list
