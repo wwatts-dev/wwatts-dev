@@ -41,6 +41,7 @@
       <h6>* Stay-tuned to see real-time automated updates here that will pull from my WakaTime developer metrics!</h6>
       <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=35b84232-eb76-4697-9225-c8d31c2df2af)](https://github.com/anuraghazra/github-readme-stats)-->
       <!--START_SECTION:activity-->
+      <!--END_SECTION:activity-->
     </div>
   </details>
   
