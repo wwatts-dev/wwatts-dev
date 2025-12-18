@@ -63,6 +63,11 @@
 <hr>
 
 ## 💡 Projects
+<!--
+<a href="https://github.com/wwatts-dev/GHWMLRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wwatts-dev&repo=GHWMLRepo" />
+</a>
+-->
 
 ## 📚 Contributions
 
