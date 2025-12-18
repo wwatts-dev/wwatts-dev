@@ -37,8 +37,8 @@
   <details>
     <summary>⚡ Recent Activity</summary>
     <div>
-      <!--START_SECTION:waka-->
       <h6>* Stay-tuned to see real-time automated updates here that will pull from my WakaTime developer metrics!</h6>
+      <!--START_SECTION:waka-->
       <!--END_SECTION:waka-->
     </div>
   </details>
