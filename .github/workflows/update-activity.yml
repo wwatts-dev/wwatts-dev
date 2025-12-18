@@ -17,7 +17,7 @@ jobs:
         with:
           GITHUB_USERNAME: wwatts-dev
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          LIMIT: 5
+          EVENT_LIMIT: 5
           # Optional: Hides stars/follows to keep it focused on coding
           #IGNORE_EVENTS: "WatchEvent, FollowEvent"  # Hides stars/follows to keep it focused on coding
           #HIDE_DETAILS: true   # Uncomment to show that you worked on a private repo but not show the commit message or repo name (for ultimate privacy)
