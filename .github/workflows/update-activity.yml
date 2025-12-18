@@ -26,4 +26,4 @@ jobs:
             # DeleteEvent: Whenever you delete a branch after merging it.
             # GollumEvent: This is GitHub's name for Wiki updates. If you edit a project’s Wiki, it shows up here.
             # MemberEvent: If you are added as a collaborator to someone else's repository.
-          COMMIT_MESSAGE: "Update activity log: {{DATE}}" # Adds the timestamp to the footer of the activity list
+          COMMIT_MESSAGE: "Recent Activity Update: {{DATE}}" # Adds a nice timestamped commit msg for each activity
