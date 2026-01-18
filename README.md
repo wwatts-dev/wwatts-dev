@@ -43,7 +43,6 @@
       <!--START_SECTION:activity-->
 <ol>
 <li>🎉 Created a new branch in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/5f05d567151ef08cd0101b6c79d082f92fe3cee4">wwatts-dev/wwatts-dev</a></li>
 </ol>
 <!--END_SECTION:activity-->
     </div>
