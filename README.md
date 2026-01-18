@@ -44,9 +44,6 @@
 <ol>
 <li>🎉 Created a new branch in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/5f05d567151ef08cd0101b6c79d082f92fe3cee4">wwatts-dev/wwatts-dev</a></li>
-<li>🗑️ Deleted a branch <code>WakaTime</code> in <a href="https://github.com/wwatts-dev/wwatts-dev">wwatts-dev/wwatts-dev</a></li>
-<li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/ff099365b77c16d288cfe303bd1c81028eabf7ce">wwatts-dev/wwatts-dev</a></li>
-<li>📝 Committed to <a href="https://github.com/wwatts-dev/wwatts-dev/commit/936ae4170090d26cedcd9d53cc318957af87f374">wwatts-dev/wwatts-dev</a></li>
 </ol>
 <!--END_SECTION:activity-->
     </div>
