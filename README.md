@@ -30,7 +30,10 @@
   <a href="https://wakatime.com/@35b84232-eb76-4697-9225-c8d31c2df2af"><img src="https://wakatime.com/badge/user/35b84232-eb76-4697-9225-c8d31c2df2af.svg" alt="Total time coded since Nov 13 2025" /></a>
 </div>
 
-##
+### **Software Engineer | Full-Stack, Graphics & AI**
+I am a Software Engineering graduate focused on building scalable cloud applications, high-performance graphics, and intelligent autonomous systems. I enjoy bridging the gap between complex mathematical concepts and functional, modular code.
+
+<hr>
 
 <details open>
     <summary><h3>📊 Developer Analytics</h3> <h6>(expand each below to view)</h6></summary>
@@ -73,14 +76,17 @@
 
 <hr>
 
-## 💡 Projects
+<h3>📚 Projects: </h3>
 <!--
 <a href="https://github.com/wwatts-dev/GHWMLRepo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wwatts-dev&repo=GHWMLRepo" />
 </a>
 -->
+<h5>🚧 Under Construction -- Be Back Soon! 🚧</h5>
 
-## 📚 Contributions
+<hr>
+
+<!-- ## 💡 Contributions -->
 
 <details open>
   <summary><h3>💻 Tech Skills</h3></summary>
@@ -126,8 +132,8 @@
       <!-- <a href="#"><img src="https://img.shields.io/badge/Databricks-181825?logo=databricks" /></a> -->
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)" />
       <!-- <a href="#"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" /></a>
-      <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" /></a> -->
-      <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3" />
+      <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" /></a>
+      <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3" /> -->
     </picture>
   </div>
   <div>
