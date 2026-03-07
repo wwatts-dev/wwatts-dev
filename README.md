@@ -46,7 +46,6 @@ I am a Software Engineering graduate focused on building scalable cloud applicat
       <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
     </div>
