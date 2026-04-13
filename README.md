@@ -45,11 +45,11 @@ I am a Software Engineering graduate focused on building scalable cloud applicat
       <br>
       <!--START_SECTION:activity-->
 <ol>
+<li>👤 Assigned issue #1 in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/issues/1">wwatts-dev/pdf-intelligence-rag</a></li>
 <li>📝 Committed to main in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/commit/99692cd70a8719cc240467b793f70bc2c1da75a0">wwatts-dev/pdf-intelligence-rag</a></li>
 <li>📝 Committed to main in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/commit/0ae25a520f058e5ba3c8aebdcf3fada632d72ade">wwatts-dev/pdf-intelligence-rag</a></li>
 <li>🌍 Made repository public <a href="https://github.com/wwatts-dev/pdf-intelligence-rag">wwatts-dev/pdf-intelligence-rag</a></li>
 <li>📝 Committed to main in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/commit/ed9587a383ba668b57cd77635cc183ffee8eb367">wwatts-dev/pdf-intelligence-rag</a></li>
-<li>📝 Committed to main in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/commit/0b8df719c5b57364bf83624fab201ad2d8766631">wwatts-dev/pdf-intelligence-rag</a></li>
 </ol>
 <!--END_SECTION:activity-->
     </div>
