@@ -55,7 +55,7 @@ I am a Software Engineer focused on the intersection of **LLM Orchestration** an
 ---
 
 ### 🌱 About Me
-- ⚡ **Engineering Philosophy:** I am a Documentation-First developer who practices Test-Driven AI Development. I maintain a "Second Brain" in Obsidian and believe that if a system isn't documented or tested, it isn't finished—I treat technical notes, READMEs, and automated evaluation suites with the same precision as the source code.
+- ⚡ **Engineering Philosophy:** I am a **Documentation-First** developer who practices **Test-Driven AI Development**. I maintain a "Second Brain" in Obsidian and believe that if a system isn't documented or tested, it isn't finished—I treat technical notes, READMEs, and automated evaluation suites with the same precision as the source code.
 - ☕ **Fuel Source:** My code is almost exclusively powered by italiano espresso roast coffee and an unhealthy amount of technical curiosity.
 - 🐾 **The Hot Take:** I am a staunch **Cat Enthusiast** 🐱. While I respect the loyalty of dogs, I'd prefer the quiet, independent judgment of a cat watching me debug code for three hours.
 
