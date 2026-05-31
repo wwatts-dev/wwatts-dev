@@ -79,7 +79,7 @@ I am a Software Engineer focused on the intersection of **LLM Orchestration** an
       <br>
       <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to main in <a href="https://github.com/wwatts-dev/pdf-intelligence-rag/commit/e9f67980cff56f8ee65d3d4cf6a375c6039f9732">wwatts-dev/pdf-intelligence-rag</a></li>
+
 </ol>
 <!--END_SECTION:activity-->
     </div>
