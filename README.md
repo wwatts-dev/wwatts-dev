@@ -6,8 +6,9 @@ I am a Software Engineer focused on the intersection of **Modern LLM Orchestrati
 ---
 
 ### 🌟 Featured Project
+
 <a href="https://github.com/wwatts-dev/pdf-intelligence-rag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wwatts-dev&repo=pdf-intelligence-rag&theme=github_dark" />
+  <img src="https://github-readme-stats-custom-alpha.vercel.app/api/pin/?username=wwatts-dev&repo=pdf-intelligence-rag&theme=github_dark" alt="PDF Intelligence RAG" />
 </a>
 
 **[PDF Intelligence RAG Engine](https://github.com/wwatts-dev/pdf-intelligence-rag)** *A scalable RAG pipeline featuring stateful conversational memory, NLU-driven query expansion, and automated evaluation suites.*
