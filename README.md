@@ -1,7 +1,7 @@
 # Hi there, I'm William Watts 👋
 
-### **AI & Data Engineer | Building Stateful RAG Systems & Scalable Architectures**
-I am a Software Engineer focused on the intersection of **LLM Orchestration** and **Robust Data Engineering**. I specialize in transforming unstructured data into high-precision, interactive knowledge bases. I enjoy bridging the gap between complex mathematical concepts and functional, production-ready code.
+### **AI & Backend Engineer | Specialized in Agentic Orchestration & High-Performance Backends**
+I am a Software Engineer focused on the intersection of **Modern LLM Orchestration** and **Asynchronous Backend Infrastructure**. My work focuses on building application layers that transform unstructured data into high-precision knowledge bases. To ensure production readiness, I use test-driven development for system reliability and optimize token usage to minimize LLM runtime costs.
 
 ---
 
@@ -32,19 +32,19 @@ I am a Software Engineer focused on the intersection of **LLM Orchestration** an
   #### **AI / Machine Learning / NLP**
   - **Frameworks:** LangChain, HuggingFace Transformers<!--, NLTK -->
   - **Vector Databases:** FAISS<!--, ChromaDB (Self-Taught) -->
-  - **Models:** Llama 3,<!-- Mixtral, GPT-4, --> Sentence-Transformers
-  - **Concepts:** RAG, NLU, Semantic Search, Prompt Engineering
+  - **Models & Local Inference:** Ollama, Llama 3.3, <!-- Mixtral, GPT-4, --> Sentence-Transformers
+  - **LLMOps & Observability:** Langfuse v3 (Application Tracing & Evaluation)
+  - **Concepts:** Agentic RAG, Chain-of-Thought (CoT), Prompt Chaining, Semantic Search
 
-  #### **Backend & Data Engineering**
-  - **Languages:** Python, C++, C#, Java, R, SQL
-  - **APIs & Web:** FastAPI, <!-- Flask, -->RESTful Design
-  - **Data Tools:** Power BI, MySQL, MongoDB, NumPy, Pandas
+  #### **Backend Engineering**
+  - **Languages:** Python, SQL, C/C++, Java
+  - **APIs & Frameworks:** FastAPI (Async/Await), <!-- Flask, -->RESTful Design, Pydantic
+  - **Data Stores:** MySQL, MongoDB
   - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD Pipelines
 
   #### **Engineering Methodologies**
-  - **AI Evaluation:** Test-Driven Development (TDD) for RAG, Faithfulness & Relevancy Benchmarking.
-  - **Quality Assurance:** Automated Testing with `pytest`, Asynchronous Logic Verification (`httpx`).
-  - **System Design:** Architectural Hygiene, Scalable Resource Management (Secondary Storage Optimization)
+  - **AI Evaluation & Quality Assurance:** Test-Driven Development (TDD), RAG Faithfulness & Relevancy Benchmarking, Automated Evaluation Suites via `pytest`, Asynchronous Logic Verification (`httpx`).
+  - **System Design:** Architectural Hygiene, Asynchronous Non-Blocking I/O, Persistent Resource Management (Docker Volume Optimization).
 
 <!--
   #### **Graphics & Systems**
@@ -60,12 +60,12 @@ I am a Software Engineer focused on the intersection of **LLM Orchestration** an
 - 🐾 **The Hot Take:** I am a staunch **Cat Enthusiast** 🐱. While I respect the loyalty of dogs, I'd prefer the quiet, independent judgment of a cat watching me debug code for three hours.
 
 ### 📚 Current Reads
-* **AI Engineering** (Chip Huyen) — *Focus: Production AI lifecycles.*
-* **Python Testing with pytest** (Brian Okken) — *Focus: Engineering quality.*
-* **LLM Engineer’s Handbook** (Iusztin & Labonne) — *Focus: LLM Orchestration.*
+- 📘 **AI Engineering** (Chip Huyen) — *Benchmarks, cost/latency tradeoffs, and orchestration loops.*
+- 📙 **Python Testing with pytest** (Brian Okken) — *Async test harnesses and Test-Driven Development (TDD).*
+- 📗 **Build a Large Language Model (From Scratch)** (Sebastian Raschka) — *Transformer mechanics, self-attention, and context constraints.*
 
 ### 🔭 Active Ventures
-- 🚧 **Currently working on:** Enhancing multi-modal RAG capabilities and optimizing local embedding latency.
+- 🚧 **Currently working on:** Integrating **Langfuse v3** to trace LLM reasoning latencies, evaluating **Chain-of-Thought (CoT)** prompting strategies via local **Ollama** instances, and refining test-driven RAG evaluation harnesses using **Pytest-Asyncio**.
 
 ---
 
