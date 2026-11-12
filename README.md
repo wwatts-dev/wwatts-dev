@@ -80,9 +80,9 @@ I am a Software Engineer focused on the intersection of **Modern LLM Orchestrati
       <br>
       <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to main in <a href="https://github.com/wwatts-dev/cpuz-scrubber/commit/a92f8b8602f896e6aea092c921c01ba2df4b3f9a">wwatts-dev/cpuz-scrubber</a></li>
 <li>📝 Committed to main in <a href="https://github.com/wwatts-dev/cpuz-scrubber/commit/11d2a2e39ca5c319795aae278fab5f7fbf8377e3">wwatts-dev/cpuz-scrubber</a></li>
 <li>📝 Committed to main in <a href="https://github.com/wwatts-dev/cpuz-scrubber/commit/8d5c3340c75b28b7e6db3553cafc0d447a0a1bd4">wwatts-dev/cpuz-scrubber</a></li>
-<li>📝 Committed to in a private repository</li>
 <li>📝 Committed to in a private repository</li>
 <li>📝 Committed to in a private repository</li>
 </ol>
